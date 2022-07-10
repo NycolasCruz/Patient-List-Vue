@@ -13,7 +13,7 @@
         framework JavaScript Vue
       </div>
 
-      <table class="table table-row-bordered align-middle gy-5 mb-66">
+      <table class="table table-row-bordered align-middle gy-5 mb-6">
         <thead>
           <tr class="fw-bold fs-6 text-gray-800">
             <th>Nome</th>
