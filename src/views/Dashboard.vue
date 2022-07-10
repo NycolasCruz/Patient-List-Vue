@@ -8,15 +8,12 @@
         <h1 class="card-title fs-2 ps-2">Lista de Pacientes</h1>
       </div>
 
-      <div class="form-label text-muted m-0">
+      <div class="form-label text-muted m-0 mb-4">
         Abaixo poderá ver uma lista de com dados de pacientes feita utilizando o
         framework JavaScript Vue
       </div>
 
-      <table
-        id="table-services"
-        class="table table-row-bordered align-middle gy-5"
-      >
+      <table class="table table-row-bordered align-middle gy-5 mb-6">
         <thead>
           <tr class="fw-bold fs-6 text-gray-800">
             <th>Nome</th>
@@ -25,7 +22,7 @@
             <th class="text-end">Ações</th>
           </tr>
         </thead>
-        <tbody id="data-services">
+        <tbody>
           <tr>
             <td>ROBERTO DE ALMEIDA PAIVA</td>
             <td>roberto@agenciasdi.com.br</td>
