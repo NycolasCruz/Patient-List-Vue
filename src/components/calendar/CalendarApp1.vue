@@ -1,39 +1,4 @@
-<template>
-  <!--begin::Card-->
-  <div class="card">
-    <!--begin::Card header-->
-    <div class="card-header">
-      <h2 class="card-title fw-bolder">Calendar</h2>
-
-      <div class="card-toolbar">
-        <button
-          class="btn btn-flex btn-primary"
-          @click="newEvent()"
-        >
-          <span class="svg-icon svg-icon-2">
-            <inline-svg src="media/icons/duotune/arrows/arr075.svg" />
-          </span>
-          Add Event
-        </button>
-      </div>
-    </div>
-    <!--end::Card header-->
-
-    <!--begin::Card body-->
-    <div class="card-body">
-      <!--begin::Calendar-->
-      <FullCalendar
-        class="demo-app-calendar"
-        :options="calendarOptions"
-      ></FullCalendar>
-      <!--end::Calendar-->
-    </div>
-    <!--end::Card body-->
-  </div>
-  <!--end::Card-->
-
-  <NewEventModal></NewEventModal>
-</template>
+<template>olá</template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
@@ -49,10 +14,7 @@ import { Modal } from "bootstrap";
 
 export default defineComponent({
   name: "calendar-app-1",
-  components: {
-    FullCalendar,
-    NewEventModal,
-  },
+  components: {},
   setup() {
     const newEvent = () => {
       const modal = new Modal(document.getElementById("kt_modal_add_event"));
@@ -86,7 +48,7 @@ export default defineComponent({
 
     return {
       calendarOptions,
-      newEvent
+      newEvent,
     };
   },
 });
