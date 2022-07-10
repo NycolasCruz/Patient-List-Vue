@@ -11,7 +11,7 @@
         data-kt-menu-placement="bottom-end"
         data-kt-menu-flip="bottom"
       >
-        <img src="media/avatars/300-15.jpg" alt="metronic" />
+        <img src="media/avatars/blank.png" alt="metronic" />
       </div>
       <KTUserMenu></KTUserMenu>
     </div>

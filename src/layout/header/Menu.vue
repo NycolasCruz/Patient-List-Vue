@@ -1,5 +1,5 @@
 <template>
-  <img alt="Logo" src="media/logos/main-logo.png" class="h-45px mt-3" />
+  <div class="fs-1 fw-bold text-white">Lista de Pacientes</div>
 </template>
 
 <script>
