@@ -2,7 +2,10 @@
   <KTLoader v-if="loaderEnabled" :logo="loaderLogo" />
 
   <div class="page d-flex flex-row flex-column-fluid">
-    <div id="kt_wrapper" class="d-flex flex-column flex-row-fluid wrapper ps-0">
+    <div
+      id="kt_wrapper"
+      class="d-flex flex-column flex-row-fluid bg-info wrapper ps-0"
+    >
       <KTHeader :title="pageTitle" />
 
       <div

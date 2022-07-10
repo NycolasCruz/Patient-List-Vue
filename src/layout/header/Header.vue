@@ -1,5 +1,5 @@
 <template>
-  <div id="kt_header" class="header align-items-stretch">
+  <div id="kt_header" class="header align-items-stretch bg-info">
     <div
       :class="{
         'container-fluid': headerWidthFluid,
@@ -28,7 +28,7 @@
       </div>
 
       <div
-        class="d-flex align-items-stretch justify-content-between flex-lg-grow-1"
+        class="d-flex flex-center justify-content-between flex-lg-grow-1 bg-info"
       >
         <div class="d-flex align-items-stretch" id="kt_header_menu_nav">
           <KTMenu></KTMenu>
