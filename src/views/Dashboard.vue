@@ -20,16 +20,16 @@
         <thead>
           <tr class="fw-bold fs-6 text-gray-800">
             <th>Nome</th>
-            <th class="text-end">Email</th>
-            <th class="text-end">CPF</th>
+            <th>Email</th>
+            <th>CPF</th>
             <th class="text-end">Ações</th>
           </tr>
         </thead>
         <tbody id="data-services">
           <tr>
             <td>ROBERTO DE ALMEIDA PAIVA</td>
-            <td class="text-end">roberto@agenciasdi.com.br</td>
-            <td class="text-end">584.336.390-21</td>
+            <td>roberto@agenciasdi.com.br</td>
+            <td>584.336.390-21</td>
             <td class="text-end">
               <button
                 class="btn btn-primary btn-icon btn-hover-rise me-2 show-button"
