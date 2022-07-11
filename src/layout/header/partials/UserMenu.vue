@@ -11,14 +11,14 @@
 
         <div class="d-flex flex-column">
           <div class="fw-bolder d-flex align-items-center fs-5">
-            User Name
+            Seu Nome
             <span
               class="badge badge-light-success fw-bolder fs-8 px-2 py-1 ms-2"
               >Pro</span
             >
           </div>
           <a href="#" class="fw-bold text-muted text-hover-primary fs-7"
-            >UserEmail@hotmail.com</a
+            >SeuNome@hotmail.com</a
           >
         </div>
       </div>
