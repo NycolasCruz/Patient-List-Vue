@@ -9,8 +9,8 @@
       </div>
 
       <div class="form-label text-muted m-0 mb-4">
-        Abaixo poderá ver uma lista de com dados de pacientes feita utilizando o
-        framework JavaScript Vue
+        Abaixo você poderá ver uma lista com dados de pacientes feita utilizando
+        o framework JavaScript VueJS 3
       </div>
       <Table />
       <Pagination />
