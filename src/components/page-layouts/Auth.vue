@@ -4,9 +4,7 @@
     :style="{ backgroundImage: 'url(' + getIllustrationsPath('14.png') + ')' }"
   >
     <div class="d-flex flex-center flex-column flex-column-fluid p-10 pb-lg-20">
-      <a href="#" class="mb-12">
-        <img alt="Logo" src="media/logos/main-logo.png" class="h-100px" />
-      </a>
+      <a href="#" class="mb-12"></a>
       <router-view></router-view>
     </div>
   </div>
