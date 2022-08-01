@@ -10,10 +10,7 @@
         <h1 class="text-dark mb-3">Entre Com Sua Conta</h1>
 
         <div class="text-gray-400 fw-bold fs-4">
-          Novo Aqui ?
-          <router-link to="/sign-up" class="link-primary fw-bolder">
-            Crie Sua Conta
-          </router-link>
+          Novo Aqui? Utilize o email: admin@demo.com e a senha: demo
         </div>
       </div>
 
@@ -26,20 +23,11 @@
           name="email"
           autocomplete="off"
         />
-        <div class="fv-plugins-message-container">
-          <div class="fv-help-block">
-            <ErrorMessage name="email" />
-          </div>
-        </div>
       </div>
 
       <div class="fv-row mb-10">
         <div class="d-flex flex-stack mb-2">
           <label class="form-label fw-bolder text-dark fs-6 mb-0">Senha</label>
-
-          <router-link to="/password-reset" class="link-primary fs-6 fw-bolder">
-            Esqueceu Sua Senha ?
-          </router-link>
         </div>
 
         <Field
@@ -48,11 +36,6 @@
           name="password"
           autocomplete="off"
         />
-        <div class="fv-plugins-message-container">
-          <div class="fv-help-block">
-            <ErrorMessage name="password" />
-          </div>
-        </div>
       </div>
 
       <div class="text-center">
@@ -90,7 +73,6 @@ export default defineComponent({
   components: {
     Field,
     Form,
-    ErrorMessage,
   },
   setup() {
     const store = useStore();

@@ -18,7 +18,7 @@
             >
           </div>
           <a href="#" class="fw-bold text-muted text-hover-primary fs-7"
-            >SeuNome@hotmail.com</a
+            >admin@demo.com</a
           >
         </div>
       </div>

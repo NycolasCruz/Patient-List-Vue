@@ -7,11 +7,6 @@
         <i class="fa-solid fa-user fs-3tx text-primary me-3"></i>
         <h1 class="card-title fs-2 ps-2">Lista de Pacientes</h1>
       </div>
-
-      <div class="form-label text-muted m-0 mb-4">
-        Abaixo você poderá ver uma lista com dados de pacientes feita utilizando
-        o framework JavaScript VueJS 3
-      </div>
       <Table />
       <Pagination />
     </div>
