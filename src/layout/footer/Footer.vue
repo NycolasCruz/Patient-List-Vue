@@ -1,18 +1,5 @@
 <template>
-  <div class="footer py-4 d-flex flex-lg-column bg-info" id="kt_footer">
-    <div
-      class="d-flex flex-column flex-md-row align-items-center justify-content-between"
-      :class="{
-        'container-fluid': footerWidthFluid,
-        'container-xxl': !footerWidthFluid,
-      }"
-    >
-      <div class="text-dark order-2 order-md-1">
-        <span class="text-white me-1">2022&copy;</span>
-        <span class="text-white text-hover-success">Nycolas Cruz</span>
-      </div>
-    </div>
-  </div>
+  <div></div>
 </template>
 
 <script lang="ts">
