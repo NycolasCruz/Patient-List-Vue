@@ -5,7 +5,6 @@
 <p>Tela desenvolvida com as seguintes tecnologias:</p>
 
 - VueJS
-- Metronic
 
 ## 🖥️ Sobre
 
@@ -14,7 +13,6 @@
 ## 🔧 Características
 
 - [x] Tela finalizada com o uso de VueJS
-- [x] Utilização do tema Metronic para o desenvolvimento da tela
 
 ## 🕹️ Instalação
 
