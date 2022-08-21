@@ -5,14 +5,15 @@
 <p>Tela desenvolvida com as seguintes tecnologias:</p>
 
 - VueJS
+- Metronic
 
 ## 🖥️ Sobre
 
 <p align="justify">A tela tem como principal função fixar meus conhecimentos no framework front-end.</p>
-
 ## 🔧 Características
 
 - [x] Tela finalizada com o uso de VueJS
+- [x] Utilização do tema Metronic para o desenvolvimento da tela
 
 ## 🕹️ Instalação
 
