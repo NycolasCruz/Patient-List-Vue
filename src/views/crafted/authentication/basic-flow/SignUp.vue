@@ -4,7 +4,6 @@
 
 <script lang="ts">
 import { defineComponent, ref, onMounted, nextTick } from "vue";
-import { ErrorMessage, Field, Form } from "vee-validate";
 import * as Yup from "yup";
 import { useStore } from "vuex";
 import { useRouter } from "vue-router";
