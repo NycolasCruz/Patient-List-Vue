@@ -10,6 +10,7 @@
 ## 🖥️ Sobre
 
 <p align="justify">A tela tem como principal função fixar meus conhecimentos no framework front-end.</p>
+
 ## 🔧 Características
 
 - [x] Tela finalizada com o uso de VueJS
@@ -17,7 +18,7 @@
 
 ## 🕹️ Instalação
 
-Certifique-se de ter o NodeJS instalado na sua máquina, caso não tenha, instale seu executável clicando neste link https://nodejs.org/pt-br/download/, em seguida clone o projeto
+Certifique-se de ter o NodeJS instalado na sua máquina, caso não tenha, instale seu executável clicando neste link https://nodejs.org/pt-br/download/, em seguida clone o projeto.
 
 Utilize o comando abaixo para instalar os pacotes necessários:
 
